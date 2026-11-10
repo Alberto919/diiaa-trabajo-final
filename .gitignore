@@ -1,0 +1,5 @@
+# Temporales de Office
+~$*
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/

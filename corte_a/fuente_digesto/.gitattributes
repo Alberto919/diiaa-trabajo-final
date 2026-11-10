@@ -1,0 +1,2 @@
+# Copia exacta del Digesto: git no debe tocar los finales de línea (el SHA-256 del manifiesto depende de los bytes)
+* -text
